@@ -1,0 +1,4 @@
+this is a simple fishtank, made in java. It is an extension of the initial project described int he book : 
+Java™ After Hours: 10 Projects You'll Never Do at Work,By Steven Holzner .
+I have added my own extensions. If you click on any fish, it explodes. This 
+is a multithreaded application, written in Java SE 6
