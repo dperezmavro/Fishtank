@@ -16,7 +16,7 @@ public class Aquarium extends JFrame implements Runnable{
 	protected Image[] fishimg = new Image[2] ;
 	protected Thread thread ;
 	protected MediaTracker tracker ;
-	protected int numberFish = 150, sleepTime = 100 ;
+	protected int numberFish = 25, sleepTime = 100 ;
 	protected Vector <Fish>  fishes = new  Vector <Fish> (numberFish);
 	protected FishChecker fishChecker ;
 	private boolean boom = false ;
